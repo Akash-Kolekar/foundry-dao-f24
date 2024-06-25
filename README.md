@@ -2,10 +2,8 @@
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
-    - [Optional Gitpod](#optional-gitpod)
 - [Usage](#usage)
   - [Test](#test)
-  - [Deploy](#deploy)
   - [Estimate gas](#estimate-gas)
 - [Formatting](#formatting)
 
@@ -22,17 +20,11 @@
 ## Quickstart
 
 ```
-git clone https://github.com/Akash-Kolekar/foundry-dao-cu
+git clone https://github.com/Akash-Kolekar/foundry-dao-f24
 cd foundry-dao-cu
 forge install
 forge build
 ```
-
-### Optional Gitpod
-
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/foundry-dao-f23)
 
 # Usage
 
@@ -41,9 +33,6 @@ If you can't or don't want to run and install locally, you can work with this re
 ```
 forge test
 ```
-## Deploy
-
-I did not write deploy scripts for this project, you can if you'd like!
 
 ## Estimate gas
 
