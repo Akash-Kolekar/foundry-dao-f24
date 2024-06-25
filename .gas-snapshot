@@ -1,0 +1,2 @@
+MyGovernorTest:testCantUpdateBoxWithoutGovernance() (gas: 10461)
+MyGovernorTest:testGovernanceUpdatesBox() (gas: 457301)
